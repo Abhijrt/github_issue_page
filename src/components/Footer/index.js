@@ -11,6 +11,7 @@ function Footer() {
           What's not been updated in a month :<span>updated:2021-08-17.</span>
         </p>
       </div>
+      <hr className="line" />
       <div className="main-footer-container">
         <ul className="footer-list">
           <li>Terms</li>

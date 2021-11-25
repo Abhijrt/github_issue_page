@@ -21,7 +21,7 @@ function Header() {
           </li>
           <li>
             <span>
-              <i className="fa fa-code-branch"></i>Fork
+              <i className="fa fa-book"></i>Fork
             </span>
             <span className="detail">2.3k</span>
           </li>
@@ -36,22 +36,22 @@ function Header() {
             <i className="fa fa-circle-o"></i> Issues
           </li>
           <li>
-            <i className="fas fa-code-branch"></i>Pull requests
+            <i className="fa fa-book"></i>Pull requests
           </li>
           <li>
             <i className="fa fa-play-circle"></i> Actions
           </li>
           <li>
-            <i className="fa fa-clipboard-list"></i>Projects
+            <i className="fa fa-tasks"></i>Projects
           </li>
           <li>
-            <i className="fa fa-book-open"></i>Wiki
+            <i className="fa fa-book"></i>Wiki
           </li>
           <li>
             <i className="fa fa-exclamation-triangle"></i>Security
           </li>
           <li>
-            <i className="fa fa-chart-line"></i>Insights
+            <i className="fa fa-book"></i>Insights
           </li>
         </ul>
       </div>

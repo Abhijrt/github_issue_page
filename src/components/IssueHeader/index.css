@@ -1,5 +1,5 @@
 .issue-header-container {
-  border: 1px solid grey;
+  border: 0.5px solid #d0d7de;
   display: flex;
   background-color: #f6f8fa;
   padding: 16px;
