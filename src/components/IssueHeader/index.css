@@ -1,0 +1,29 @@
+.issue-header-container {
+  border: 1px solid grey;
+  display: flex;
+  background-color: #f6f8fa;
+  padding: 16px;
+  width: 97%;
+  border-radius: 6px 6px 0px 0px;
+}
+
+.open-issue {
+  font-size: 14px;
+  font-weight: 600;
+}
+
+.close-issue {
+  font-size: 14px;
+}
+
+.issue-header-list {
+  list-style: none;
+  display: flex;
+  position: absolute;
+  right: 150px;
+  top: 145px;
+}
+
+.issue-header-list li {
+  margin-right: 20px;
+}
