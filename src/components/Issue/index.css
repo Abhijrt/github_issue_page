@@ -1,0 +1,37 @@
+.issue-container {
+  display: flex;
+  border: 1px solid grey;
+  padding: 8px;
+}
+
+.data-container {
+  padding-left: 10px;
+}
+
+.title {
+  font-size: 16px;
+  font-weight: 600;
+  color: #24292f;
+}
+
+.content {
+  font-size: 12px;
+  padding: 6px 0px;
+  color: #57606a;
+}
+
+.issue-container:hover {
+  background-color: #f6f8fa;
+}
+
+.icon {
+  color: #1a7f37;
+}
+
+.feature {
+  border: 0.5px solid grey;
+  margin: 0px 5px;
+  padding: 0px 12px;
+  border-radius: 8px;
+  font-size: 12px;
+}

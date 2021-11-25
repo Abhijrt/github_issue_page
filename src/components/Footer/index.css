@@ -4,4 +4,16 @@
   list-style: none;
   color: #0c67dc;
   font-size: 12px;
+  margin-bottom: 30px;
+}
+
+.footer-detail {
+  text-align: center;
+  color: #57606a;
+  font-size: 14px;
+  margin-bottom: 30px;
+}
+
+.footer-detail span {
+  color: #0969da;
 }
