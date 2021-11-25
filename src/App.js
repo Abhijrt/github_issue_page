@@ -1,6 +1,8 @@
+import React, { useEffect, useState } from "react";
 import Header from "./components/Header/Header";
 import IssueHeader from "./components/IssueHeader";
 import Footer from "./components/Footer";
+
 function App() {
   return (
     <div className="App">

@@ -9,12 +9,24 @@ function IssueHeader() {
       <span className="close-issue">1690 Closed</span>
       {/* </div> */}
       <ul className="issue-header-list">
-        <li>Author</li>
-        <li>Label</li>
-        <li>Projects</li>
-        <li>Milestones</li>
-        <li>Assinee</li>
-        <li>Sort</li>
+        <li>
+          Author<i className="fa fa-sort-down"></i>
+        </li>
+        <li>
+          Label<i className="fa fa-sort-down"></i>
+        </li>
+        <li>
+          Projects<i className="fa fa-sort-down"></i>
+        </li>
+        <li>
+          Milestones<i className="fa fa-sort-down"></i>
+        </li>
+        <li>
+          Assinee<i className="fa fa-sort-down"></i>
+        </li>
+        <li>
+          Sort<i className="fa fa-sort-down"></i>
+        </li>
       </ul>
     </div>
   );
