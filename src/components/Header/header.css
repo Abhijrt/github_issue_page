@@ -18,6 +18,14 @@ p {
   padding-left: 30px;
 }
 
+strong {
+  color: black;
+}
+
+p i {
+  color: black;
+}
+
 .heading-container {
   display: flex;
   background-color: #f6f8fa;

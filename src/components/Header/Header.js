@@ -6,7 +6,7 @@ function Header() {
     <div className="main-container">
       <div className="heading-container">
         <p>
-          <i className="fa fa-desktop"></i> facebook / react
+          <i className="fa fa-desktop"></i> facebook <strong>/</strong> react
           <span className="type">Public</span>
         </p>
         <ul className="left-header-container">
