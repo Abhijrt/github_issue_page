@@ -5,8 +5,12 @@ function IssueHeader() {
   return (
     <div className="issue-header-container">
       {/* <div className="left-container"> */}
-      <span className="open-issue">238 Open </span>
-      <span className="close-issue">1690 Closed</span>
+      <span className="open-issue">
+        <i className="fa fa-circle-o"></i>238 Open{" "}
+      </span>
+      <span className="close-issue">
+        <i className="fa fa-check"></i>1690 Closed
+      </span>
       {/* </div> */}
       <ul className="issue-header-list">
         <li>
