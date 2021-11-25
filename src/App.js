@@ -1,6 +1,6 @@
 import Header from "./components/Header/Header";
 import IssueHeader from "./components/IssueHeader";
-
+import Footer from "./components/Footer";
 function App() {
   return (
     <div className="App">
@@ -8,6 +8,7 @@ function App() {
       <div className="content-container">
         <IssueHeader />
       </div>
+      <Footer />
     </div>
   );
 }
