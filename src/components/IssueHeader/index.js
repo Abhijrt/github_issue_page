@@ -10,22 +10,22 @@ function IssueHeader() {
       {/* </div> */}
       <ul className="issue-header-list">
         <li>
-          Author<i className="fa fa-sort-down"></i>
+          Author<i className="fa fa-caret-up"></i>
         </li>
         <li>
-          Label<i className="fa fa-sort-down"></i>
+          Label<i className="fa fa-caret-up"></i>
         </li>
         <li>
-          Projects<i className="fa fa-sort-down"></i>
+          Projects<i className="fa fa-caret-up"></i>
         </li>
         <li>
-          Milestones<i className="fa fa-sort-down"></i>
+          Milestones<i className="fa fa-caret-up"></i>
         </li>
         <li>
-          Assinee<i className="fa fa-sort-down"></i>
+          Assinee<i className="fa fa-caret-up"></i>
         </li>
         <li>
-          Sort<i className="fa fa-sort-down"></i>
+          Sort<i className="fa fa-caret-up"></i>
         </li>
       </ul>
     </div>
